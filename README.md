@@ -1,6 +1,6 @@
 # RE:BT-Espresso enhanced by GFACTOR algorithm. 
 
-This git repository is a fork from RE:BT-Espresso. This README will guide you to generate the results presented in the paper _Learning Behavior Trees from Planning Experts Using Data Mining and Logic Factorization_ submitted at AAAI23. This repository is the so called SETUPII in the paper
+This git repository is a fork from RE:BT-Espresso. This README will guide you to generate the results presented in the paper _Learning Behavior Trees from Planning Experts Using Decision Tree and Logic Factorization_. This repository is the so called SETUPII in the paper
 
 
 ## Install
